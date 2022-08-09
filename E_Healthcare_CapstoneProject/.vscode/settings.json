@@ -1,2 +1,4 @@
 {
+    "appService.defaultWebAppToDeploy": "/subscriptions/94e3fbf3-a234-4c33-a1a8-b8d37dd67655/microsoft.web/sites/subscriptions/94e3fbf3-a234-4c33-a1a8-b8d37dd67655/resourceGroups/Capstone/providers/Microsoft.Web/sites/ehealthcareyt",
+    "appService.deploySubpath": "."
 }
